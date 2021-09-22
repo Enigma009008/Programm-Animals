@@ -1,0 +1,7 @@
+D:\Dem.ekzamen\Programm\Programm\obj\Debug\Programm.csproj.CoreCompileInputs.cache
+D:\Dem.ekzamen\Programm\Programm\bin\Debug\Programm.exe.config
+D:\Dem.ekzamen\Programm\Programm\bin\Debug\Programm.exe
+D:\Dem.ekzamen\Programm\Programm\bin\Debug\Programm.pdb
+D:\Dem.ekzamen\Programm\Programm\obj\Debug\Programm.exe
+D:\Dem.ekzamen\Programm\Programm\obj\Debug\Programm.pdb
+D:\Dem.ekzamen\Programm\Programm\obj\Debug\Programm.csproj.AssemblyReference.cache
